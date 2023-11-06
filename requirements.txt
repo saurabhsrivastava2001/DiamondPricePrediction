@@ -1,5 +1,6 @@
 pandas 
 scikit-learn 
 numpy
-
--e . 
+ipykernel
+seaborn 
+#-e .
