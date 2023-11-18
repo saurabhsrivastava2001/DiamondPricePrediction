@@ -1,3 +1,3 @@
 git add . 
-git commit -m"Exception file created and wirking fine"
+git commit -m"Research.ipynb was updated"
 git push -u origin main
