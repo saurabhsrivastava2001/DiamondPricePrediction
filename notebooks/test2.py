@@ -1,0 +1,1 @@
+from src.DimondPricePrediction.logger import Logger
