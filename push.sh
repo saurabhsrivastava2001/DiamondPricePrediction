@@ -1,3 +1,3 @@
 git add . 
-git commit -m"Research.ipynb was updated"
+git commit -m"Data_ingestion was updated and training_pipeline was updated"
 git push -u origin main
