@@ -48,7 +48,7 @@ class DataTransformation:
             color_categories = ['D', 'E', 'F', 'G', 'H', 'I', 'J']
             clarity_categories = ['I1','SI2','SI1','VS2','VS1','VVS2','VVS1','IF']
             
-            logger.logging.info('Pipeline Initiated')
+            logger.logging.info("Pipeline Initiated")
             
             ## Numerical Pipeline
             num_pipeline=Pipeline(
